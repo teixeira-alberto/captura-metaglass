@@ -33,3 +33,4 @@ Captura a ROI em **CFR** (FPS constante), grava o **áudio de loopback** do Wind
 **Observações:**
 - Funciona com múltiplos monitores: a ROI pode ser definida em qualquer tela e será respeitada na captura.
 - Compatibilidade: os scripts foram **testados no Windows**. Em **Linux/macOS** podem ser necessários ajustes.
+- Pronto para adaptação: partindo destes arquivos, é possível criar pipelines que subam áudio para modelos (Ex: ASR), vídeo para modelos de visão computacional e façam integrações com APIs.
