@@ -12,7 +12,7 @@ O objetivo é oferecer uma forma prática de gravar lives ou chamadas, seja em v
 ## Scripts
 
 ### 1) `window_region_setup.py` - Definir área da captura
-Abre uma janela transparente para você posicionar/redimensionar **por cima da área** que deseja capturar.
+Exibe uma janela transparente para posicionar e redimensionar **sobre a área** da tela a ser capturada.
 
 ### 2) `test_capture.py` — Pré-visualização da captura
 Mostra, em tempo real, **exatamente a região** que será capturada.
