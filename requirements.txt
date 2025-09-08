@@ -1,0 +1,15 @@
+# Requisitos via pip
+numpy
+opencv-python
+mss
+soundcard
+
+# YOLO (Ultralytics) -> para rodar o código roi+yolo.py
+ultralytics
+torch
+torchvision
+torchaudio
+
+# Dependência de sistema (não via pip):
+# FFmpeg instalado manualmente (baixado do site oficial) e adicionado ao PATH do sistema.
+# Certifique-se de que "ffmpeg" e "ffprobe" estejam acessíveis no terminal.
